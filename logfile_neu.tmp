@@ -1,0 +1,13 @@
+{"LogFile": { 
+"logentry": { 
+{"operation":"add","file":test.txt,"uuid":2a4b0bf4-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0d0c-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0d98-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0de8-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0e2e-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0e74-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0eba-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0ef6-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0f3c-8830-11e9-afe9-acde48001122},
+{"operation":"add","file":test.txt,"uuid":2a4b0f96-8830-11e9-afe9-acde48001122},
+}}}
